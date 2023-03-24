@@ -1,7 +1,6 @@
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/110442250/205642350-17ec8739-21fd-4b49-b3d0-259dfeb8a276.png" height="148">
-  <h2 align="center">Vue.js</h2>
-  <p align="center">Vue.js study collection 🚀<p>
-
-  <h4 align="center">Vue AS Project 🎁<h4>
+<img src="http://cdnimage.ebn.co.kr/news/201902/news_1551138344_974119_main1.jpg" height="280">
+  <h2 align="center">Vuebangapp 🏠</h2>
+  <p align="center">My own Zigbang app made with Vue
+  <h4 align="center">홍보 및 광고아님 @_@;;;<h4>
   </p>
