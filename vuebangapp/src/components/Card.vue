@@ -80,7 +80,7 @@ export default {
 
 <style lang="scss">
 .btn {
-  width: 20%;
+  width: 21%;
   margin-left: 11px;
   background: #326cf9;
   transition: all 0.2s;
@@ -96,7 +96,7 @@ export default {
     position: relative;
     top: 196px;
     text-align: center;
-    width: 23%;
+    width: 26%;
     height: 256vh;
     display: flex;
     flex-direction: column;
@@ -108,7 +108,7 @@ export default {
       top: 56px;
       left: 0;
       font-size: 13px;
-      width: 24%;
+      width: 26%;
       height: 67px;
       display: flex;
       align-items: center;

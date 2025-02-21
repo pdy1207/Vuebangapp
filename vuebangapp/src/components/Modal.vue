@@ -204,10 +204,11 @@ select[name="month"] {
   justify-content: center;
   display: flex;
   .white-bg {
-    width: 75%;
+    width: 85%;
     background: white;
     border-radius: 8px;
     padding: 20px;
+    overflow: scroll;
     img {
       width: 80px;
       height: 80px;
